@@ -27,5 +27,5 @@ Here are Step to calculate correctly
   2. Count ID length
   3. Concatenate Characters of one String
   4. Compute GC Content
-
+# Download Code File and Apply 
 
