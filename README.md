@@ -20,11 +20,12 @@ Rosalind_0808
 
 # Explanation 
 
-The Very important point to remember is whenever you read a string from text file, it will read it line by line and eventually at the end of every string you will extra character "\n" and this maybe cause for your wrog results.
-here are Step to calculate coorect
+The Very important point to remember is whenever you read a string from text file, it will read it line by line and eventually at the end of every string you will extra character "\n" and this maybe cause for your wrong results.
+Here are Step to calculate correctly
 
-1.Read all Strings into a list
-2.Count ID length
-3.Concatenate Characters of one String
-4.Compute GC Content
+  1. Read all Strings into a list
+  2. Count ID length
+  3. Concatenate Characters of one String
+  4. Compute GC Content
+
 
